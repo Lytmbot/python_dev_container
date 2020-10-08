@@ -1,0 +1,26 @@
+# logs and output
+*.log
+
+# dataset and model weighs
+*.pkl
+*.tfrecords
+*.h5
+*.code-workspace
+
+# plots
+*.png
+*.eps
+*.svg
+*.jpeg
+*.jpg
+*.pdf
+*.tiff
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pytest results
+.pytest_cache/
+test-report.html
+test-report.xml
+assets/*
