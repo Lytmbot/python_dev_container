@@ -1,0 +1,29 @@
+name: oscillot
+channels:
+ - defaults
+dependencies:  
+  - python=3.7
+  - tensorflow-gpu=2.2
+  - tensorboard
+  - h5py
+  - jinja2
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - pyspark
+  - scikit-learn
+  # - pip
+  # - pip:
+  #   - clickhouse-driver
+  #   - findspark
+  #   - kafka-python
+  #   - hdfs
+  #   - asyncio
+  #   - tables
+  #   - pytest
+  #   - pytest-html
+  #   - pytest-asyncio
+  #   - pytest-aiohttp
+  #   - aiochclient[speedups]
